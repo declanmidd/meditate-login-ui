@@ -1,4 +1,4 @@
-# fun
+# Meditate app - Login UI
 
 A new Flutter project.
 
